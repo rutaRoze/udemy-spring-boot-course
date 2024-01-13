@@ -59,8 +59,10 @@ public class StudentDAOImpl implements StudentDAO {
     @Transactional
     public void update(Student student) {
 
-        Student theStudent = entityManager.find(Student.class, 1);
-        theStudent.setFirstName("Ru");
+
+// Could be written like this, but param should be id (implementation not clear, as not shown on course)
+//        Student theStudent = entityManager.find(Student.class, 1);
+//        theStudent.setFirstName("Ru");
 
         entityManager.merge(student);
 
@@ -75,6 +77,26 @@ public class StudentDAOImpl implements StudentDAO {
                 .executeUpdate();
 
         return numRowsUpdated;
+    }
+
+    @Override
+    @Transactional
+    public void delete(Integer id) {
+
+        Student student = entityManager.find(Student.class, id);
+        entityManager.remove(student);
+
+    }
+
+    @Override
+    @Transactional
+    public int deleteAll() {
+
+        int numRowsDeleted = entityManager.createQuery(
+                "DELETE FROM Student")
+                .executeUpdate();
+
+        return numRowsDeleted;
     }
 
 
