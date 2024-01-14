@@ -34,7 +34,7 @@ public class EmployeeServiceImpl implements EmployeeService {
         } else {
             throw new RuntimeException("Did not find employee id - " + id);
         }
-        
+
         return employee;
     }
 
