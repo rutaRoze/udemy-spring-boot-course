@@ -1,0 +1,54 @@
+
+y
+java:S1192n"^Define a constant instead of duplicating this literal "Saved student. Generated id: " 5 times.(»œ€ºşÿÿÿÿ
+m
+java:S1192g"XDefine a constant instead of duplicating this literal "Creating new student..." 3 times.(ØÆ½`
+m
+java:S1192j"RDefine a constant instead of duplicating this literal "Saving student..." 3 times.(ŸÍµ¾ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¯Û«ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ƒ¢Œ»şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÓùÒÑúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ËıÕùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(áæ×
+V	java:S125!"<This block of commented-out lines of code should be removed.(”ÁŸ¾ıÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(ï…îôûÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(÷‹¹Æ
+?	java:S106+"+Replace this use of System.out by a logger.(²†¾
+@	java:S106-"+Replace this use of System.out by a logger.(“¿ğÎ
+@	java:S1064"+Replace this use of System.out by a logger.(º–çø
+E	java:S106;"+Replace this use of System.out by a logger.(Éèèúÿÿÿÿ
+E	java:S106="+Replace this use of System.out by a logger.(ºúå–ùÿÿÿÿ
+E	java:S106D"+Replace this use of System.out by a logger.(´ …¡ûÿÿÿÿ
+E	java:S106G"+Replace this use of System.out by a logger.(Ù²è×ıÿÿÿÿ
+E	java:S106L"+Replace this use of System.out by a logger.(§–Ã¬øÿÿÿÿ
+@	java:S106X"+Replace this use of System.out by a logger.(„íí
+@	java:S106`"+Replace this use of System.out by a logger.(„íí
+?	java:S106g"+Replace this use of System.out by a logger.(ØÆ½`
+E	java:S106j"+Replace this use of System.out by a logger.(ŸÍµ¾ÿÿÿÿÿ
+E	java:S106n"+Replace this use of System.out by a logger.(»œ€ºşÿÿÿÿ
+E	java:S106p"+Replace this use of System.out by a logger.(´ …¡ûÿÿÿÿ
+?	java:S106s"+Replace this use of System.out by a logger.(Ö”d
+?	java:S106z"+Replace this use of System.out by a logger.(ØÆ½`
+E	java:S106"+Replace this use of System.out by a logger.(ŸÍµ¾ÿÿÿÿÿ
+F	java:S106„"+Replace this use of System.out by a logger.(›Æóÿÿÿÿÿ
+A	java:S106…"+Replace this use of System.out by a logger.(÷ö¨
+A	java:S106†"+Replace this use of System.out by a logger.(ü‚Œş
+@	java:S106Œ"+Replace this use of System.out by a logger.(ØÆ½`
+F	java:S106"+Replace this use of System.out by a logger.(ŸÍµ¾ÿÿÿÿÿ
+A	java:S106’"+Replace this use of System.out by a logger.(©ç‘„
+L
+java:S1144)"6Remove this unused private "deleteAllStudents" method.(Çş±Ÿ
+M
+java:S11441"2Remove this unused private "deleteStudent" method.(¢‘£¸şÿÿÿÿ
+N
+java:S11449"3Remove this unused private "updateStudents" method.(Á“»Ìùÿÿÿÿ
+G
+java:S1144A"2Remove this unused private "updateStudent" method.(ÓŒZ
+T
+java:S1144Q"?Remove this unused private "queryForStudentsByLastName" method.(Ê‰
+K
+java:S1144\"5Remove this unused private "queryForStudents" method.(ˆòÓÇ
+F
+java:S1144e"0Remove this unused private "readStudent" method.(ûÂßâ
+N
+java:S1144Š"2Remove this unused private "createStudent" method.(¼‚Úøùÿÿÿÿ
